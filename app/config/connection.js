@@ -5,6 +5,7 @@ var Sequelize = require("sequelize");
 var sequelize = new Sequelize("planner", "root", "root", {
   host: "localhost",
   dialect: "mysql",
+  port:3305,
   pool: {
     max: 5,
     min: 0,

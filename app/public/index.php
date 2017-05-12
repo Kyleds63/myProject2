@@ -28,7 +28,6 @@
    }
 ?>
 
-<!DOCTYPE html>
 
 <html lang="en">
 
@@ -203,10 +202,11 @@
             <p>UT Coding Bootcamp Copyright &copy; 2017</p>
         </div>
     </div>
+    <script src="js/login.js" type="text/javascript"></script>
+    <script src="js/signup.js" type="text/javascript"></script>
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="assets/javascript/logic.js"></script>
+    <script src="js/logic.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </body>
 

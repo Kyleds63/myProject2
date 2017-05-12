@@ -16,7 +16,7 @@ $("#planSubmit").on("click", function(event) {
   
 
   // send an AJAX POST-request with jQuery
-  $.post("/api/new", newPlan)
+  $.post("/api/newplan", newPlan)
     // on success, run this callback
     .done(function(data) {
       // log the data we found
